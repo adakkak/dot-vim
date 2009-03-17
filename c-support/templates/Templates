@@ -1,0 +1,26 @@
+$
+$ =============================================================
+$ ========== USER MACROS ======================================
+$ =============================================================
+$
+|AUTHOR|    = Abdulmajed Dakkak
+|AUTHORREF| = AD
+|EMAIL|     = adakkak@eng.utoledo.edu
+|COMPANY|   = adakkak
+|COPYRIGHT| = Copyright (c) 2007 adakkak@eng.utoledo
+$
+$ =============================================================
+$ ========== FILE INCLUDES ====================================
+$ =============================================================
+$
+|includefile| = c.comments.template
+|includefile| = c.cpp.template
+|includefile| = c.idioms.template
+|includefile| = c.preprocessor.template
+|includefile| = c.statements.template
+
+$|includefile| = cpp.comments.template
+$|includefile| = cpp.cpp.template
+$|includefile| = cpp.idioms.template
+$|includefile| = cpp.preprocessor.template
+$|includefile| = cpp.statements.template

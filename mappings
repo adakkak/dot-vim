@@ -1,0 +1,10 @@
+" ~/.vim/mappings
+" Mappings
+" Jon Parise (jon@csh.rit.edu)
+
+
+" map :W to :w
+nmap :W :w
+nmap :Q :q
+
+
